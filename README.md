@@ -26,3 +26,8 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 ## Graph Theory
 
 * [IAPCR2F](http://www.spoj.com/problems/IAPCR2F/) (good DSU problem)
+
+## Sorting
+
+* [PAIRS1](http://www.spoj.com/problems/PAIRS1/) (sorting + binary search)
+* [SLEXSORT](http://www.spoj.com/problems/SLEXSORT/)
